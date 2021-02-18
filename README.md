@@ -12,7 +12,7 @@
 [<img align="left" alt="mrkazmi333.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mrkazmi333 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mrkazmi333 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mrkazmi333 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="mrkazmi333 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -43,6 +43,6 @@
 </details>
 
 [website]: https://mrkazmi333.github.io
-[twitter]: https://twitter.com/codeSTACKr
+[facebook]: https://twitter.com/motasim.kazmi
 [instagram]: https://instagram.com/motasimkazmi
 [linkedin]: https://linkedin.com/in/mrk333
