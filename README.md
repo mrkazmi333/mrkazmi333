@@ -1,6 +1,6 @@
 ### Hi there, I'm Motasim Kazmi - [Portfolio][website] 👋
 
-## I'm a Developer, MEME Engineer, Cricketer and Teacher!!
+## I'm a Developer, MEME Engineer and a Cricketer!!
 
 - 💻 I'm working as a Software Engineer!
 - 🌱 I’m currently learning everything 🤣 and focusing on FrontEnd Technologies
