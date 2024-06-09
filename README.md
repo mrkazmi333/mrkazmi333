@@ -2,9 +2,8 @@
 
 ## I'm a Developer, MEME Engineer and a Cricketer!!
 
-- 💻 I'm working as a Software Engineer!
-- 🌱 I’m currently learning everything 🤣 and focusing on FrontEnd Technologies
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💻 I'm working as a Senior Software Engineer!
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and make memes
 
 ### Connect with me:
